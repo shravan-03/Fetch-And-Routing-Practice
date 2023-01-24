@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.blog-item-details-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+}
+.blog-image {
+  width: 100%;
+  padding: 10px;
+}
+.content-para {
+  color: grey;
+}

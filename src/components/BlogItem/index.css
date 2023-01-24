@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.image-url-class {
+  width: 40%;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+}
+.blog-item-container {
+  display: flex;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  margin: 10px;
+}
+.avatar-image {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+}
+.avatar-container {
+  display: flex;
+  align-items: center;
+}
+p {
+  color: grey;
+  margin-left: 10px;
+}
+.link-container {
+  color: black;
+  text-decoration: none;
+}
